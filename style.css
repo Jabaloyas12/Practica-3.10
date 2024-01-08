@@ -1,0 +1,27 @@
+div.Cafeteria{
+color: rgb(117, 45, 3);
+}
+
+div.Carta{
+    color: rgb(110, 52, 3);
+}
+
+div.color{
+    color: rgb(202, 30, 30);
+}
+
+div.cafe{
+    color: rgb(102, 52, 5);
+}
+
+div.color2{
+    color: rgb(180, 18, 18);
+}
+
+div.pos{
+    position: relative;
+    left: 1300px;
+}
+div.contacto{
+    color: rgb(105, 51, 0);
+}
